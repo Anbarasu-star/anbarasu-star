@@ -1,7 +1,7 @@
 # 💫 About Me:
  Hi 👋, I'm Anbarasu K<br>A passionate Data Analyst from India <br>🔭 I’m currently Studying Artificial Intelligence and Data Science<br>🌱 I’m currently learning from R.M.K Engineering College<br>💬 Ask me about : I Just Love♥️ Myself and Think above Top of World🇮🇳<br>📫How to reach me :arasu2788@gmail.com<br>👨‍💻 All of my projects are available at https://drive.google.com/drive/folders/1DKhwGtvz-y8sxRyxbSxu6bpnuAOD0Cxv?usp=sharing<br>📄 Know about my experiences : https://drive.google.com/file/d/1KparGd6RudXKwflvsFfKX_VS77mQE8ny/view?usp=drive_link<br>⚡ Fun fact :Iam funny 🤩😉and I alwalys Simile 😁
 
-
+<img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt=" coding" width="400" height="400">
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anbarasu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_anbarasu.pvt_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/anbarasu-k-71a358234) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kanbarasu2003) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/anbarasu1001) 
 
