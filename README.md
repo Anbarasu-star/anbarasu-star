@@ -50,8 +50,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anbarasu-star&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=kanbarasu2003)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## 🎶 Spotify :
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31dlcytnswbelmado2qmtuyc2nwy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+
+<br/>  
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
